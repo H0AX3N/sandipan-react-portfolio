@@ -31,14 +31,14 @@ const Contact = () => {
             <h3 className="text-xl font-semibold mb-6">Get in Touch</h3>
             <div className="space-y-4">
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:sandipandeb1310@gmail.com"
                 className="flex items-center space-x-3 text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"
               >
                 <FaEnvelope className="w-6 h-6" />
                 <span>sandipandeb1310@gmail.com</span>
               </a>
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/H0AX3N"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"

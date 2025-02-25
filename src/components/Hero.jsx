@@ -24,7 +24,7 @@ const Hero = () => {
           </a>
           <div className="flex items-center space-x-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/H0AX3N"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl hover:text-blue-600 dark:hover:text-blue-400"
@@ -32,7 +32,7 @@ const Hero = () => {
               <FaGithub />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/sandipan-deb-052832190/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl hover:text-blue-600 dark:hover:text-blue-400"
