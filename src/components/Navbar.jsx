@@ -21,7 +21,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
           <div className="flex-shrink-0">
             <h1 className="text-xl font-bold">MyPortfolio</h1>
           </div>
-          
+
           <div className="hidden md:block">
             <div className="ml-10 flex items-center space-x-4">
               {menuItems.map((item) => (
