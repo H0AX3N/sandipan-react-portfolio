@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #0f172a;
+  --secondary: #64748b;
+}
+
+.dark {
+  --primary: #f1f5f9;
+  --secondary: #94a3b8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white dark:bg-slate-900 text-slate-900 dark:text-white;
+}
+
+.section-padding {
+  @apply py-16 px-4 md:px-8 lg:px-16;
+}
+
+.skill-icon {
+  @apply w-16 h-16 mx-4 my-2 transition-transform hover:scale-110;
+}
